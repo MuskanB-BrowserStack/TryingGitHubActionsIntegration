@@ -15,20 +15,23 @@ public class FirstTest extends AppiumTest {
 
     @Test
     public void test() throws Exception {
-      WebElement skipButton = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
-          ExpectedConditions.presenceOfElementLocated(AppiumBy.id("org.wikipedia.alpha:id/fragment_onboarding_skip_button")));
-      skipButton.click();
 
-      WebElement searchElement = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
-          ExpectedConditions.elementToBeClickable(AppiumBy.accessibilityId("Search Wikipedia")));
+        Thread.sleep(60000);
 
-      searchElement.click();
-      WebElement insertTextElement = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
-          ExpectedConditions.elementToBeClickable(AppiumBy.id("org.wikipedia.alpha:id/search_src_text")));
-      insertTextElement.sendKeys("BrowserStack");
-      Thread.sleep(5000);
+    //   WebElement skipButton = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
+    //       ExpectedConditions.presenceOfElementLocated(AppiumBy.id("org.wikipedia.alpha:id/fragment_onboarding_skip_button")));
+    //   skipButton.click();
 
-      List<WebElement> allProductsName = driver.findElements(AppiumBy.className("android.widget.TextView"));
-      Assert.assertTrue(allProductsName.size() > 0);
+    //   WebElement searchElement = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
+    //       ExpectedConditions.elementToBeClickable(AppiumBy.accessibilityId("Search Wikipedia")));
+
+    //   searchElement.click();
+    //   WebElement insertTextElement = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
+    //       ExpectedConditions.elementToBeClickable(AppiumBy.id("org.wikipedia.alpha:id/search_src_text")));
+    //   insertTextElement.sendKeys("BrowserStack");
+    //   Thread.sleep(5000);
+
+    //   List<WebElement> allProductsName = driver.findElements(AppiumBy.className("android.widget.TextView"));
+    //   Assert.assertTrue(allProductsName.size() > 0);
     }
 }

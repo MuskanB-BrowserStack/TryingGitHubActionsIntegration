@@ -1,0 +1,19 @@
+name: learn-github-actions
+run-name: ${{ github.actor }} is learning GitHub Actions
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install -g bats
+      - run: bats -v
+      - name: Upload APK to BrowserStack
+        uses: shreyanshp/upload-app-browserstack@v3
+        with:
+          app-path: testng-appium-app-browserstack/android/testng-examples/WikipediaSample.apk
+          browserstack-username: ${{ secrets.BROWSERSTACK_USERNAME }}
+          browserstack-accesskey: ${{ secrets.BROWSERSTACK_ACCESSKEY }}

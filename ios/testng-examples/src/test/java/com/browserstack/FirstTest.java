@@ -9,6 +9,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import io.appium.java_client.AppiumBy;
 import org.openqa.selenium.WebElement;
 
+import org.openqa.selenium.JavascriptExecutor;
+
+
 import java.time.Duration;
 
 public class FirstTest extends AppiumTest {
@@ -23,6 +26,10 @@ public class FirstTest extends AppiumTest {
     textInput.sendKeys("hello@browserstack.com"+"\n");
 
     Thread.sleep(5000);
+
+    // JavascriptExecutor jse = (JavascriptExecutor)driver;
+    // jse.executeScript("browserstack_executor: {\"action\":\"cameraImageInjection\", \"arguments\": {\"imageUrl\" : \"media://hjhcjwgvejcgwj\"}}");
+
 
     WebElement textOutput = (WebElement) new WebDriverWait(driver, Duration.ofSeconds(30)).until(
         ExpectedConditions.elementToBeClickable(AppiumBy.accessibilityId("Text Output")));

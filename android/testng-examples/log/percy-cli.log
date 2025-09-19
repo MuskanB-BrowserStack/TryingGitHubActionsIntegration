@@ -1,0 +1,265 @@
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2277: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41153426
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41153426_build_41153426_cli_5b2a2da2e8cee969c5a4b76988de9d020685b336
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2278: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41153435
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41153435_build_41153435_cli_2a9c0b4ae21e9ffbbdc4fe36a7dbe21fd8a2afbd
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2279: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41153441
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41153441_build_41153441_cli_cff64c5c38313e3fa80f2bd55e8f97d883f00d53
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2291: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41184227
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41184227_build_41184227_cli_f200707a8e3a7d283288ef34e24eec36d813790f
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2292: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41184314
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41184314_build_41184314_cli_4c23e46b6c853a14326b13c7067214299139262c
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2293: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41184512
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41184512_build_41184512_cli_fe13f3de3393772ae835c28facb52bf19fb468b4
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Finalized build #2348: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41246962
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41246962_build_41246962_cli_2d18d80c9ac03a46c9e90dbc92549bc256a787ba
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2349: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41247104
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41247104_build_41247104_cli_ef9e9d4f83ae7891237df83976566cb8cc05c272
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2673: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41774517
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41774517_build_41774517_cli_c567c0829b11e5db2fc955c57cdc5b2ee977fb81
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2674: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41774679
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41774679_build_41774679_cli_5945aae147e3877d22e3869d3f1e205c9ac96a86
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Finalized build #2675: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41775326
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41775326_build_41775326_cli_585683176ba12473bf9dc26cdb951b7a3c0c50be
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2687: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41815289
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41815289_build_41815289_cli_ea7a93aa4107234fc51fa8e381a3e1760c3eef3e
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-2
+[percy] Finalized build #2688: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41815366
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41815366_build_41815366_cli_1403a87542bed16a2122ac07b537105339eebc59
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Finalized build #2740: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41929618
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41929618_build_41929618_cli_498cf5e9767cd7e9a06e0968b8ff9769fcad2c10
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Finalized build #2741: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41929761
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41929761_build_41929761_cli_650ba280f3e8dd678811ebe5ef89e7fa04e2d56e
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-1
+[percy] Finalized build #2742: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41929880
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41929880_build_41929880_cli_3f078dd089acf910e83f62d1985914f50826853f
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Finalized build #2743: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/41930075
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 41930075_build_41930075_cli_afdd3537acdf29c484a71cdeb376d733a864ab35
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #2804: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/42085884
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 42085884_build_42085884_cli_284feb67c62c57273040b89b131f617050194aac
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Finalized build #2805: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/42085952
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 42085952_build_42085952_cli_82d1d136af02079541cef8bdbbe6df55115e1adb
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3205: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43168806
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43168806_build_43168806_cli_3b842cfffa4568f8d8d74a43ef62f6687347c693
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3206: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43168996
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43168996_build_43168996_cli_a9d4834cd9cdee15dd816ab82aa0d68a555aa585
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3207: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43169072
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43169072_build_43169072_cli_f29a4742b6b5bad8eb64edfafa4feaa212d873c6
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3208: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43169126
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43169126_build_43169126_cli_48752d38e7ba0918ad894940bf3add44df6d6be8
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3209: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43169229
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43169229_build_43169229_cli_f7484793801b2fa588668d1c8ef34128748e75ea
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Finalized build #3210: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43169930
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43169930_build_43169930_cli_7a96a6a6a111a214ada564cf1d94cb06e547f3c0
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3231: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43205044
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43205044_build_43205044_cli_8ccec97746dfd4199a511af3648a5ed60a9df260
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3232: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43205229
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43205229_build_43205229_cli_d522f5cd29743c63914e6e4b5c077fb0445c846b
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3233: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43205233
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43205233_build_43205233_cli_2ad905629fae90436c8a171045cb640808e913f6
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] AbortError: SIGINT
+[percy] Stopping percy...
+[percy] Finalized build #3234: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43205404
+[percy] Detected error for percy build
+[percy] Failure: Snapshot command was not called
+[percy] Failure Reason: Snapshot Command was not called. please check your CI for errors
+[percy] Suggestion: Try using percy snapshot command to take snapshots
+[percy] Refer to the below Doc Links for the same
+[percy] * https://www.browserstack.com/docs/percy/take-percy-snapshots/
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43205404_build_43205404_cli_5ca94c8995fc34f926a513ecdf2e72a98d14c143
+[percy] Notice: Percy collects CI logs to improve service and enhance your experience. These logs help us debug issues and provide insights on your dashboards, making it easier to optimize the product experience. Logs are stored securely for 30 days. You can opt out anytime with export PERCY_CLIENT_ERROR_LOGS=false, but keeping this enabled helps us offer the best support and features.
+[percy] Percy has started!
+[percy] Snapshot taken: com.browserstack.FirstTest-test-testcase-0
+[percy] Finalized build #3235: https://percy.io/9560f98d/app/BrowserStack-Samples/builds/43205483
+[percy] Build's CLI and CI logs sent successfully. Please share this log ID with Percy team in case of any issues - 43205483_build_43205483_cli_b4469c5f0521b489b998429d5b75e53051743495

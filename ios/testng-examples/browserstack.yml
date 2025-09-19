@@ -26,7 +26,7 @@ framework: testng
 
 source: testng:appium-sample-sdk:v1.1
 
-app: ./BStackSampleApp.ipa
+app: bs://9456a719283f23702f9db3c3e86e26cda15abb91
 #app: ./LocalSample.ipa #For running local tests
 
 # =======================================
@@ -36,14 +36,14 @@ app: ./BStackSampleApp.ipa
 # Entire list available here -> (https://www.browserstack.com/list-of-browsers-and-platforms/automate)
 
 platforms:
-  - deviceName: iPhone 14 Pro
+  - platformName: ios
+    platformVersion: 26 Beta
+    deviceName: iPhone 15
+  # - deviceName: iPhone 13 Pro
+  #   osVersion: 15
+  #   platformName: ios
+  - deviceName: iPad 10th
     osVersion: 16
-    platformName: ios
-  - deviceName: iPhone 13 Pro
-    osVersion: 15
-    platformName: ios
-  - deviceName: iPhone 15 Plus
-    osVersion: 17
     platformName: ios
 
 # =======================
@@ -77,3 +77,4 @@ debug: false # <boolean> # Set to true if you need screenshots for every seleniu
 networkLogs: false # <boolean> Set to true to enable HAR logs capturing
 consoleLogs: errors # <string> Remote browser's console debug levels to be printed (Default: errors)
 # Available options are `disable`, `errors`, `warnings`, `info`, `verbose` (Default: errors)
+# enableCameraImageInjection: true

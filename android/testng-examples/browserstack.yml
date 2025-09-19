@@ -13,7 +13,7 @@ accessKey: BROWSERSTACK_ACCESS_KEY
 # Set 'projectName' to the name of your project. Example, Marketing Website
 projectName: BrowserStack Samples
 # Set `buildName` as the name of the job / testsuite being run
-buildName: browserstack build
+buildName: Trying Video issue on Pixel 10 Pro
 # `buildIdentifier` is a unique id to differentiate every execution that gets appended to
 # buildName. Choose your buildIdentifier format from the available expressions:
 # ${BUILD_NUMBER} (Default): Generates an incremental counter with every execution
@@ -26,7 +26,7 @@ framework: testng
 
 source: testng:appium-sample-sdk:v1.1
 
-app: ./WikipediaSample.apk
+app: bs://026f2bb1087b9b10c6400cdeba9df745167d9893
 #app: ./LocalSample.apk #For running local tests
 
 # =======================================
@@ -36,15 +36,15 @@ app: ./WikipediaSample.apk
 # Entire list available here -> (https://www.browserstack.com/list-of-browsers-and-platforms/automate)
 
 platforms:
-  - deviceName: Samsung Galaxy S22 Ultra
-    osVersion: 12.0
+  - deviceName: Google Pixel 10 Pro
+    osVersion: 16.0
     platformName: android
-  - deviceName: Samsung Galaxy S21
-    osVersion: 11.0
-    platformName: android
-  - deviceName: Google Pixel 6 Pro
-    osVersion: 12.0
-    platformName: android
+  # - deviceName: iPad 10th
+  #   osVersion: 18.0
+  #   platformName: ios
+  # - deviceName: Google Pixel 4 XL
+  #   osVersion: 10.0
+  #   platformName: android
 
 # =======================
 # Parallels per Platform
@@ -63,7 +63,7 @@ parallelsPerPlatform: 1
 # ==========================================
 # Set browserStackLocal to true if your website under test is not accessible publicly over the internet
 # Learn more about how BrowserStack Local works here -> https://www.browserstack.com/docs/automate/selenium/local-testing-introduction
-browserstackLocal: true # <boolean> (Default false)
+browserstackLocal: false # <boolean> (Default false)
 #browserStackLocalOptions:
 #Options to be passed to BrowserStack local in-case of advanced configurations
 #  localIdentifier: # <string> (Default: null) Needed if you need to run multiple instances of local.
@@ -77,3 +77,10 @@ debug: false # <boolean> # Set to true if you need screenshots for every seleniu
 networkLogs: false # <boolean> Set to true to enable HAR logs capturing
 consoleLogs: errors # <string> Remote browser's console debug levels to be printed (Default: errors)
 # Available options are `disable`, `errors`, `warnings`, `info`, `verbose` (Default: errors)
+# uploadMedia: ["media://3628042f309e5a628a587ec704e48a4779d42821"]
+
+appiumVersion: 2.15.0
+machine: 209.208.245.50:57281FDCH000BR
+
+
+interactiveDebugging: true
